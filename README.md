@@ -98,7 +98,7 @@ This beginner-level project helped in:
 ## 📎 Screenshots
 
 📷 *Bar Plot - Sales by Gender*
-* ![Sales by Gender](https://github.com/Anusharijal/diwali-sales-analysis/screenshots/by gender.png)
+* ![Sales by Gender](https://github.com/Anusharijal/diwali-sales-analysis/screenshots/by_gender.png)
 
 📷 *Pie Chart - City Tier Distribution*
 * ![Sales by Gender](https://github.com/Anusharijal/diwali-sales-analysis/screenshots/sales_by_gender.png)
